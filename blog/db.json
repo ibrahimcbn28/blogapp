@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "React ile Blog Sitesi",
+      "content": "React ile blog yapmak harika!",
+      "author": "İbrahim Çoban"
+    },
+    {
+      "id": "2",
+      "title": "JSON Server API Kullanımı",
+      "content": "json-server ile kolayca sahte API yapabilirsin.",
+      "author": "İbrahim Çoban"
+    }
+  ]
+}
